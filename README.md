@@ -36,9 +36,3 @@ A implementação dessas ferramentas na empresa **Abstergo Industries** tem como
 * [Documentação Oficial - Amazon EC2](https://aws.amazon.com/pt/ec2/)
 * [Documentação Oficial - Amazon S3](https://aws.amazon.com/pt/s3/)
 * [Documentação Oficial - Amazon RDS](https://aws.amazon.com/pt/rds/)
-
----
-
-**Assinatura do Responsável pelo Projeto:**
-
-*Luciano*
